@@ -19,3 +19,9 @@ References
 [4] Locally Weighted and Logistic Regression ([video](https://www.youtube.com/watch?v=het9HFqo1TQ)). CS229: Machine Learning (2018), Stanford University
 
 [5] Perceptron & Generalized Linear Model ([video](https://www.youtube.com/watch?v=iZTeva0WSTQ)). CS229: Machine Learning (2018), Stanford University
+
+[6] Support Vector Machines ([video](https://www.youtube.com/watch?v=lDwow4aOrtg)). CS229: Machine Learning (2018), Stanford University
+
+[7] Kernels ([video](https://www.youtube.com/watch?v=8NYoQiRANpg)). CS229: Machine Learning (2018), Stanford University
+
+[8] Data Splits, Models & Cross-Validation ([video](https://www.youtube.com/watch?v=rjbkWSTjHzM)). CS229: Machine Learning (2018), Stanford University
